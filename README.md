@@ -27,7 +27,6 @@ A simple web application that allows users to convert currencies using real-time
 
 2. Install frontend dependencies:
    ```sh
-   cd currency-converter
    npm install
    ```
 
