@@ -24,15 +24,9 @@ A simple web application that allows users to convert currencies using real-time
    git clone https://github.com/Sanjaypandit1/Currency-Converter.git
    cd currency-converter
    ```
-
-2. Install frontend dependencies:
+32 Install backend dependencies:
    ```sh
-   npm install
-   ```
-
-3. Install backend dependencies:
-   ```sh
-   cd backend  # Navigate to the backend folder (if applicable)
+   cd backend 
    npm install
    ```
 
